@@ -25,7 +25,9 @@
 </div>
 
 
-<h1>🔥 MY Stats:</h1><br>
+---
+
+### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DexterG1t&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 <!--
 **DexterG1t/DexterG1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
